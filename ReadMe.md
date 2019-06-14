@@ -12,7 +12,7 @@ With exploratory data analysis I identified two classes of poker players, profes
 
 Applying a Seasonal AutoRegressive Moving Average model to these time series, I developed one and two step ahead forecasts for each component of traffic, evaluated them and drafted a roll out strategy for a poker traffic forecasting product.
 
-Despite a relatively small data set, there is clear evidence that a poker traffic forecasting product can provide valuable information players can use to improve increase their profit. 
+Despite a relatively small data set, there is clear evidence that a poker traffic forecasting product can provide valuable information players can use to improve their overall profit. 
 
 ## Presentation and work
 Powerpoint presentation and notebooks can be viewed by clicking the titles below (presenting notebooks with nbviewer is necessary to view plotly graphs).
