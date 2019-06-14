@@ -22,7 +22,7 @@ Powerpoint presentation and notebooks can be viewed by clicking the titles below
 A walk through of the process and discussion of the proposed products and roll out strategy.
 
 
-### [Part 1, Anonymise and wrangle data](https://nbviewer.jupyter.org/github/richchad/DSI-Capstone/blob/master/Part%201%2C%20Anonymise%20data.ipynb)
+### [Part 1, Anonymise and wrangle data](https://nbviewer.jupyter.org/github/richchad/DSI-Capstone/blob/master/Part%201%2C%20Anonymise%20and%20wrangle%20data.ipynb)
 
 To protect the privacy of the players the data is anonymised. In this notebook I anonymise the tournament summary data and create two additional tables for exploratory data analysis; games per hour and player summary statistics.
 
