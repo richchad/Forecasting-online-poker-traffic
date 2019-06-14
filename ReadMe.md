@@ -1,7 +1,7 @@
 
 # When's the Money?  
 ## Time Series Analysis of Online Poker Traffic
-### General Assembly Capstone Project - Richard Chadwick
+## General Assembly Capstone Project - Richard Chadwick
 
 
 
@@ -41,7 +41,7 @@ For each time series I check for stationarity (Dickey-Fuller Test), seasonality 
 
 To optimise for order and moving averages I create a seperate notebook for each time series and run for loops on the model with different parameters. I discuss the best performing models in this notebook and review their effectiveness for two step ahead dynamic forecasts.
 
-### Libraries used
+## Libraries used
 1. Scikit-learn
 2. StatsModels
 3. Scipy
